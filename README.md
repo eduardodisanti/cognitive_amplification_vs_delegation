@@ -92,13 +92,4 @@ The repository contains the simulation code and supporting materials associated 
 The source code in this repository is licensed under the Apache License 2.0.  
 See the `LICENSE` file for details.
 
-## Contact
-
-**Eduardo Di Santi**  
-University of Colorado Boulder
-
-eduardo.disanti@colorado.edu
-
-Repository:  
-https://github.com/eduardodisanti/cognitive_amplification_vs_delegation
 
