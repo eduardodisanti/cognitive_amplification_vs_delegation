@@ -93,6 +93,7 @@ You may add your preferred license here (for example, MIT, BSD, or another open-
 
 **Eduardo Di Santi**  
 University of Colorado Boulder
+eduardo.disanti@colorado.edu
 
 Repository:  
 https://github.com/eduardodisanti/cognitive_amplification_vs_delegation
