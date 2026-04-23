@@ -42,6 +42,6 @@ A central result is that **strong hybrid performance does not necessarily imply 
 ## Code
 
 Repository:  
-[https://anonymous.4open.science/r/cognitive_amplification_vs_delegation-B08D/index.md]
+[anonymous]
 
 
