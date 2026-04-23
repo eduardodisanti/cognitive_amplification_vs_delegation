@@ -3,10 +3,10 @@ title: "Cognitive Amplification vs Cognitive Delegation in Human-AI Systems"
 message: "If you use this repository, please cite the associated work."
 type: software
 authors:
-  - family-names: "Di Santi"
-    given-names: "Eduardo"
-    affiliation: "University of Colorado Boulder"
-    email: "eduardo.disanti@colorado.edu"
+  - family-names: "anonymous"
+    given-names: "anonymous"
+    affiliation: "anonymous"
+    email: "anonymous"
 repository-code: "https://github.com/eduardodisanti/cognitive_amplification_vs_delegation"
 license: "Apache-2.0"
 abstract: >
