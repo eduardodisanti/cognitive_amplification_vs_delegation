@@ -98,3 +98,9 @@ eduardo.disanti@colorado.edu
 
 Repository:  
 https://github.com/eduardodisanti/cognitive_amplification_vs_delegation
+
+## Citation
+
+If you use this repository or build on the simulation framework, please cite the associated work. Citation metadata is provided in `CITATION.cff`.
+
+The repository contains the simulation code and supporting materials associated with the manuscript on cognitive amplification versus cognitive delegation in human--AI systems.
