@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "Cognitive Amplification vs Cognitive Delegation in Human-AI Systems"
+message: "If you use this repository, please cite the associated work."
+type: software
+authors:
+  - family-names: "Di Santi"
+    given-names: "Eduardo"
+    affiliation: "University of Colorado Boulder"
+    email: "eduardo.disanti@colorado.edu"
+repository-code: "https://github.com/eduardodisanti/cognitive_amplification_vs_delegation"
+license: "Apache-2.0"
+abstract: >
+  NetLogo simulation and supporting materials for studying cognitive amplification
+  versus cognitive delegation in human-AI systems through collaborative gain,
+  dependency structure, human reliance, and cognitive drift.
+keywords:
+  - human-ai interaction
+  - cognitive amplification
+  - cognitive delegation
+  - netlogo
+  - agent-based simulation
+  - automation bias
+  - cognitive offloading
