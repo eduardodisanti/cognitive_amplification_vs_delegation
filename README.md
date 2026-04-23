@@ -87,7 +87,8 @@ If you use this code or build on this framework, please cite the associated pape
 
 ## License
 
-You may add your preferred license here (for example, MIT, BSD, or another open-source license).
+The source code in this repository is licensed under the Apache License 2.0.  
+See the `LICENSE` file for details.
 
 ## Contact
 
